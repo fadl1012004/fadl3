@@ -1,0 +1,190 @@
+body
+{ 
+           
+    background-image: url("/img/Free\ Vector\ _\ 3d\ earth\ graphic\ symbolizing\ global\ trade\ illustration_.jpeg");
+    background-size: cover;
+     background-repeat: no-repeat;
+}
+
+/* .div1
+{
+    width:30vw;
+    height: 40vh;
+    border:2px solid gray;
+    padding-top:60px;
+
+}
+.title1
+{
+    border:inherit;
+    padding-top:70px;
+    padding-left: 50px;
+
+} */
+
+/* اوعك تحول عنصر بلوك ل انلاين بس العكس عادي */
+.a11
+{
+    color:rgb(12, 12, 147);
+    text-align: center;
+    font-size: 80px;
+}
+.r1:hover{
+   
+    color:rgb(241, 6, 49);
+    transition: 1s linear;
+}
+.div11
+{
+    width: 250px;
+    height: 200px;
+    border:2px solid gray;
+    border-radius: 15px;
+
+    float:left;
+    margin:0px 50px;
+    text-align: center;
+    transition: 1s linear;
+    
+}
+.div12
+{
+    width: 250px;
+    height: 200px;
+    border:2px solid gray;
+    border-radius: 15px;
+    float:left;
+    margin-right:50px;
+    text-align: center;
+    transition: 1s linear;
+
+}
+.div13
+{
+    
+    width: 250px;
+    height: 200px;
+    border:2px solid gray;
+    border-radius: 15px;
+    float:left;
+    margin-right:50px;
+    text-align: center;
+    transition: 1s linear;
+}
+.div14
+{
+    width: 250px;
+    height: 200px;
+    border:2px solid gray;
+    border-radius: 15px;
+    float:left;
+   
+    text-align: center;
+    transition: 1s linear;
+
+}
+
+.b11
+{
+    width: 190px;
+    height: 40px;
+    background-color: rgb(11, 0, 128);
+    color:aliceblue;
+    border:0cap;
+    border-radius: 15px;
+    transition: 1s linear;
+}
+.b12
+{
+    width: 190px;
+    height: 40px;
+    background-color: rgb(30, 8, 10);
+    color:aliceblue;
+    border:0cap;
+    border-radius: 15px;
+    transition: 1s linear;
+
+}
+.r2{
+    color: #ee9d06;
+    
+}
+.b13
+{
+    width: 190px;
+    height: 40px;
+    background-color: #6c0471;
+    color:aliceblue;
+    border:0cap;
+    transition: 1s linear;
+    border-radius: 15px;
+
+}
+.b14{
+    width: 190px;
+    height: 40px;
+    background-color: #25d366;
+    color:aliceblue;
+    border:0cap;
+    transition: 1s linear;
+    border-radius: 15px;
+
+}
+.b1:hover
+{
+    color: #25d366;
+    background-color:aquamarine;
+    width: 250px;
+}
+.a22
+{
+    display: block;
+    margin-top:30px;
+   
+    
+}
+
+.div11:hover
+{    width: 270px;
+    height: 220px;
+    /* background-color: rgba(11, 0, 128, 0.518); */
+    background-image: url("/img/401850289_1044484290202283_1854501322170841778_n.jpg");
+    background-size:cover ;
+    background-repeat: no-repeat;
+}
+.div12:hover
+{  width: 270px;
+    height: 220px;
+    background-image: url("../img/Screenshot\ 2024-05-18\ 212529.png");
+    background-size:cover ;
+    background-repeat: no-repeat;
+}
+.div13:hover
+{   width: 270px;
+    height: 220px;
+    /* background-color: #6c04718f; */
+    background-image: url("/img/401850289_1044484290202283_1854501322170841778_n.jpg");
+    background-size:cover ;
+    background-repeat: no-repeat;
+}
+.div14:hover
+{
+    width: 270px;
+    height: 220px;
+    background-image: url("../img/Screenshot\ 2024-05-19\ 003735.png");
+    background-size:cover ;
+    background-repeat: no-repeat;
+}
+
+.h11{
+    color: rgb(11, 0, 128);
+}
+.h12{
+    color:rgb(30, 8, 10);
+}
+.h13{
+    color:#6c0471;
+}
+.h14{
+    color:rgb(42, 165, 75);
+}
